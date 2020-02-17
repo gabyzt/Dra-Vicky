@@ -3,6 +3,11 @@
  <link rel="stylesheet" type="text/css" href="https://github.com/gabyzt/Dra-Vicky/blob/master/index%20file/segundostl.css">
 <link rel="stylesheet" type="text/css" href="https://github.com/gabyzt/Dra-Vicky/blob/master/index%20file/photoswipe.css">
 <link rel="stylesheet" type="text/css" href="P%C3%A1gina%20App%20Archivos/default-skin.css">
+ <script type="text/javascript">
+/*<![CDATA[*/
+YII_CSRF_TOKEN='5fa4ce870d924a8c3fef656a894d9eb2ff6d5ce4';
+/*]]>*/
+</script>
 </head>
 
        
