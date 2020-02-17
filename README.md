@@ -5,11 +5,7 @@
 <link rel="stylesheet" type="text/css" href="P%C3%A1gina%20App%20Archivos/default-skin.css">
 </head>
 
-    
-
-
-    
-    
+       
 
 
     <div class="loading-welcome active welcome-screen" ng-style="{'background-color': view.code.welcome_extra.background || view.welcome_extra.background}" style="background-color: rgb(255, 255, 255); display: none;">
