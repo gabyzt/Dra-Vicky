@@ -1,5 +1,5 @@
 <html lang="es"><head>
-<title> 12Dra. vicky</title>
+<title>Dra vicky</title>
  <link rel="stylesheet" type="text/css" href="hhttps://github.com/gabyzt/Dra-Vicky/blob/master/index%20file/segundostl.css">
 <link rel="stylesheet" type="text/css" href="P%C3%A1gina%20App%20Archivos/photoswipe.css">
 <link rel="stylesheet" type="text/css" href="P%C3%A1gina%20App%20Archivos/default-skin.css">
