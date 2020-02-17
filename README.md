@@ -1,4 +1,3 @@
-﻿<!DOCTYPE html>
 <html lang="es"><head>
 <title> 12Dra. vicky</title>
  <link rel="stylesheet" type="text/css" href="https://github.com/gabyzt/vickydra/blob/master/index%20file/segundostl.css">
