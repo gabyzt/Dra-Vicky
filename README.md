@@ -1,6 +1,6 @@
 <html lang="es"><head>
 <title>Dra vicky</title>
- <link rel="stylesheet" type="text/css" href="https://github.com/gabyzt/Dra-Vicky/blob/master/index%20file/segundostl.css">
+ <link rel="stylesheet" type="text/css" href="index file/segundostl.css">
 <link rel="stylesheet" type="text/css" href="https://github.com/gabyzt/Dra-Vicky/blob/master/index%20file/photoswipe.css">
 <link rel="stylesheet" type="text/css" href="P%C3%A1gina%20App%20Archivos/default-skin.css">
 
