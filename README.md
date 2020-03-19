@@ -7,7 +7,7 @@
 </head>
 
    <body>
-      <audio src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3" autoplay loop></audio>    
+      <audio src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp" autoplay loop></audio>    
  
  <audio controls>
   <source src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.ogg" type="audio/ogg">
