@@ -68,13 +68,13 @@
         --><span class="sh-page__description-text ng-binding">Cirujano Dentista</span>
     </div>
 
-<div align="center">
+
 
 <div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"> </div>
 
 
 
-
+<div align="center">
 <center>
 <!-- ngIf: !useGridView() --><div ng-if="!useGridView()" class="ng-scope">
         <!-- ngRepeat: image in view.code.images track by $index --><sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope"><div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 128.106%;"><img class="sh-image__image" ng-src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg" ng-class="{'sh-image__image--loaded': image}" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg"></div></sh-gallery-image>
