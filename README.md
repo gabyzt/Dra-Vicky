@@ -74,7 +74,7 @@
 <audio id="audir" controls HIDDEN = "TRUE">
         <source type="audio/mp3" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3"><br/><br/><br/><br/>
     </audio>
-
+<left>
 <input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="310%" height="115%">
 </div>
 </center>
