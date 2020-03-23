@@ -73,13 +73,16 @@
 <div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"> </div>
 
 <center>
- <div align="center">
+<div align="center">
+<div style="position:relative">
 <!-- ngIf: !useGridView() --><div ng-if="!useGridView()" class="ng-scope">
         <!-- ngRepeat: image in view.code.images track by $index --><sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope"><div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 128.106%;"><img class="sh-image__image" ng-src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg" ng-class="{'sh-image__image--loaded': image}" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg"></div></sh-gallery-image>
 
    
 <div style="position:absolute; top:0; left:0;"  margin: 0; padding:0"  >
 <input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg"  width="120%" height= "12%vh"  onclick="alarma();"  />
+</div>
+</div>
 </div>
 
     <audio id="audir" controls>
