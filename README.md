@@ -39,8 +39,7 @@
 
 
 
-<div align="center">
-<div style="position:relative">
+
 
 <div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"></div>
 
@@ -57,7 +56,8 @@
       
 
 
-
+<div align="center">
+<div style="position:relative">
 
 <div ng-show="hasAnyContentToDisplay()">
    
