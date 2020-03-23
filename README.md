@@ -75,8 +75,11 @@
         <source type="audio/mp3" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3"><br/><br/><br/><br/>
     </audio>
 
-<div style="position:absolute; top:0; left:0;"  margin: 0; padding:0">
-<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg"  width="120%" height= "12%vh"  onclick="alarma();"  />
+<center>
+  <div style="position:absolute; top:0%; left:0;">
+<input type="image" id="loader" value="ALARMA" name="boton" src="Dra-Vicky%20%20%20Vicky%20https%20_gabyzt.github.io_Dra-Vicky_%20Archivos/Pro.jpg" onclick="alarma();" width="110%" height="115%">
+</div>
+</center>
 <script>
 function alarma()
 {
