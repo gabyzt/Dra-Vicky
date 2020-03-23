@@ -68,7 +68,7 @@
         --><span class="sh-page__description-text ng-binding">Cirujano Dentista</span>
     </div>
 
-
+<div align="center">
 
 <div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"> </div>
 
