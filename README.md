@@ -7,12 +7,7 @@
 </head>
 
    <body>
-  <div style="position:absolute; top:0; left:493;">
-<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/loa.gif"  width="120%" height= "12%vh"  onclick="alarma();"  />
-</div>
- 
- 
-       <audio id="audir" controls  HIDDEN = TRUE>
+        <audio id="audir" controls  HIDDEN = TRUE>
         <source type="audio/mp3" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3"><br/><br/><br/><br/>
     </audio> 
 
@@ -82,7 +77,9 @@
 <div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"> </div>
 
 
-
+ <div style="position:absolute; top:0; left:493;">
+<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/loa.gif"  width="120%" height= "12%vh"  onclick="alarma();"  />
+</div>
 
 <center>
 <!-- ngIf: !useGridView() --><div ng-if="!useGridView()" class="ng-scope">
