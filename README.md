@@ -13,19 +13,7 @@
 
     
     
-    <div class="loading-welcome active welcome-screen" ng-style="{'background-color': view.code.welcome_extra.background || view.welcome_extra.background}" style="background-color: rgb(255, 255, 255); display: none;">
-    <div class="progress">
-        <div class="loading-bar indeterminate" ng-style="{'background-color': view.code.color1 || view.color1}" style="background-color: rgb(56, 11, 131);"></div>
-    </div>
-    <div class="helper"></div>
-    
-    <img id="welcomeImg" imageonload="" ng-src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/6181944_1.png" ng-style="{
-            'max-width': view.code.welcome_extra.zoom *2 || view.welcome_extra.zoom *2 + 'px',
-            'max-height': view.code.welcome_extra.zoom *2 || view.welcome_extra.zoom *2 + 'px',
-            'animation-iteration-count' :  view.showPreview == 'infinite' ? 'infinite' : '',
-            'animation-direction' :  view.showPreview == 'infinite' ? 'alternate' : ''
-            }" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/6181944_1.png" style="max-width: 100px; max-height: 100px; display: inline;">
-</div>
+  
     
 <div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"></div>
 <div style="position:relative">
