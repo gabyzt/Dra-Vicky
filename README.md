@@ -6,14 +6,24 @@
 
 </head>
 
-   <body>
-      <audio src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp" autoplay loop></audio>    
- 
- <audio controls>
-  <source src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.ogg" type="audio/ogg">
-  <source src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3" type="audio/mpeg">
 
-</audio> 
+
+   <body>
+ 
+ 
+ <div style="position:absolute; top:0; left:493;" top:200; left:350;"  margin: 0; padding:0"  >
+
+<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/loa.gif"  width="120%" height= "12%vh"  onclick="alarma();"  />
+
+
+</a>
+</div>
+ 
+ 
+ 
+      <audio id="audir" controls  HIDDEN = TRUE>
+        <source type="audio/mp3" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3"><br/><br/><br/><br/>
+    </audio> 
 
     <div class="loading-welcome active welcome-screen" ng-style="{'background-color': view.code.welcome_extra.background || view.welcome_extra.background}" style="background-color: rgb(255, 255, 255); display: none;">
     <div class="progress">
