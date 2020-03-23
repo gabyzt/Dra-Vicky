@@ -80,4 +80,17 @@
 </div>
 </div>
 </div>
- 
+<script>
+
+function alarma()
+{
+  funcion_uno();
+  funcion_dos();}
+
+function funcion_uno()
+{audir.play();}
+
+function funcion_dos()
+{document.getElementById('loader').style.display = "none";}
+
+</script> 
