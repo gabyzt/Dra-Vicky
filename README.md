@@ -3,15 +3,9 @@
  <link rel="stylesheet" type="text/css" href="index file/segundostl.css">
 <link rel="stylesheet" type="text/css" href="https://github.com/gabyzt/Dra-Vicky/blob/master/index%20file/photoswipe.css">
 <link rel="stylesheet" type="text/css" href="P%C3%A1gina%20App%20Archivos/default-skin.css">
-
 </head>
-
    <body>
-         
-    
-  
-    
-<div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"></div>
+ <iv class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"></div>
 <div style="position:relative">
     <div class="sh-container" id="rootElement"><!-- rootElement is important for sync data -->
         <div ng-hide="hasAnyContentToDisplay()" class="ng-hide">
