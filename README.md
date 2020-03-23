@@ -65,7 +65,10 @@
 
 
 <div class="sh-background" ng-style="getBackgroundStyles()" style="height: 500px; background-color: rgb(56, 11, 131); color: rgb(255, 255, 255);"> </div>
-
+<left>
+<div style="position:absolute; top:0; left:0;" top:200; left:350;"  margin: 0; padding:0"  >
+<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="310%" height="115%">
+</div>
 <center>
 
 <!-- ngIf: !useGridView() --><div ng-if="!useGridView()" class="ng-scope">
@@ -75,10 +78,7 @@
         <source type="audio/mp3" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3"><br/><br/><br/><br/>
     </audio>
     </center>
-<left>
-<div style="position:absolute; top:0; left:0;" top:200; left:350;"  margin: 0; padding:0"  >
-<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="310%" height="115%">
-</div>
+
 
 <script>
 function alarma()
