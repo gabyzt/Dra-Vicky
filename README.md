@@ -76,7 +76,7 @@
     </audio>
 
 <center>
-<div style="position:absolute; top:0; left:0;" top:0; left:0;" margin: 0; padding:0">
+<div style="position:absolute; top:0; left:0;">
 <input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="120%" height="115%">
 </div>
 </center>
