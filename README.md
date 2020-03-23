@@ -78,8 +78,9 @@
 <center>
 <!-- ngIf: !useGridView() --><div ng-if="!useGridView()" class="ng-scope">
         <!-- ngRepeat: image in view.code.images track by $index --><sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope"><div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 128.106%;"><img class="sh-image__image" ng-src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg" ng-class="{'sh-image__image--loaded': image}" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg"></div></sh-gallery-image>
-</center>
-    <div>
+
+    </div>
+    </center>
     <audio id="audir" controls  HIDDEN = "TRUE">
         <source type="audio/mp3" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3"><br/><br/><br/><br/>
     </audio>
