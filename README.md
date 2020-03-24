@@ -82,7 +82,7 @@
 </center>
 <aling=left>
 <DIV STYLE="position:absolute; top:0px; left:0px; visibility:visible z-index:1">
-		<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="1000px" height="1200px">
+		<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="10px" height="1200px">
 </div>
 
 </center>
