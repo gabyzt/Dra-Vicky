@@ -71,15 +71,21 @@
 
 <!-- ngIf: !useGridView() --><div ng-if="!useGridView()" class="ng-scope">
         <!-- ngRepeat: image in view.code.images track by $index --><sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope"><div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 128.106%;"><img class="sh-image__image" ng-src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg" ng-class="{'sh-image__image--loaded': image}" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/vi1f.jpg"></div></sh-gallery-image>
-<div style="position:absolute; top:0; left:0;" top:200; left:350;"  margin: 0; padding:0"  >
-<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="310%" height="115%">
+
 </div>
 <audio id="audir" controls HIDDEN = "TRUE">
         <source type="audio/mp3" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/DespreTine2.mp3"><br/><br/><br/><br/>
     </audio>
-    </center>
+    </div>
+</div>
+</div>
+</center>
+<aling=center>
+<DIV STYLE="position:absolute; top:20px; left:0px; visibility:visible z-index:1">
+		<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="100%" height="1200px">
+</div>
 
-
+</center>
 <script>
 function alarma()
 {
