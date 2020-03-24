@@ -85,7 +85,7 @@
 		<input type="image" id="loader" value="ALARMA" name="boton" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/Pro.jpg" onclick="alarma();" width="10px" height="1200px">
 </div>
 
-</center>
+</left>
 <script>
 function alarma()
 {
